@@ -36,7 +36,7 @@ Experience the video player live: [Demo Link](https://next-browser-video-player.
 git clone https://github.com/shahedfardous/browser-based-video-player.git
 
 # Navigate to project directory
-cd browser-video-player
+cd browser-based-video-player
 
 # Install dependencies
 npm install

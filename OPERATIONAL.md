@@ -21,7 +21,7 @@ git clone https://github.com/shahedfardous/browser-based-video-player.git
 2. Navigate to the project directory:
 
 ```bash
-cd browser-video-player
+cd browser-based-video-player
 ```
 
 3. Install dependencies:

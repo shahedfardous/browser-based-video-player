@@ -501,8 +501,8 @@ const VideoPlayer: React.FC = () => {
               onChange={handleFolderSelect} 
               className="hidden"
               multiple
-              webkitdirectory=""
-              directory=""
+              data-webkitdirectory=""
+              data-directory=""
             />
           </label>
         </div>

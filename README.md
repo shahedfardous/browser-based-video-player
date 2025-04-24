@@ -21,7 +21,7 @@ A modern, feature-rich video player application built with Next.js 15, React, an
 
 ## 🚀 Live Demo
 
-Experience the video player live: [Demo Link](https://next-browser-video-player.vercel.app/)
+Experience the video player live: [Demo Link](https://mp.shahedfardous.com/)
 
 ## 📖 Documentation
 

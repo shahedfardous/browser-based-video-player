@@ -27,7 +27,7 @@ Experience the video player live: [Demo Link](https://next-browser-video-player.
 
 - [Technical Documentation](./TECHNICAL.md) - Architecture, components, and implementation details
 - [Functional Guide](./FUNCTIONAL.md) - Feature explanations and use cases
-- [Operation Manual](./OPERATIONS.md) - Installation, deployment, and usage instructions
+- [Operation Manual](./OPERATIONAL.md) - Installation, deployment, and usage instructions
 
 ## 🛠️ Quick Start
 
